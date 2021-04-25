@@ -31,7 +31,25 @@
 
 ### 👩🏻‍💻 황재원 작업
 
+#### 상품리스트 페이지 제작
+- 2021.04.13 : 초기셋팅 후 레이아웃 진행
+- 2021.04.14 : 레이아웃 완료, 코드 리뷰 반영한 리팩토링
+- 2021.04.15 : 이미지 호버시 이미지변경 및 정보 노출, 코드 리뷰 반영한 리팩토링
+- 2021.04.16 : 이미지 호버완료, 코드 리뷰 반영 리팩토링
+- 2021.04.17 : 코드 리팩토링
+- 2021.04.18 : 제품card 백 서버연결(오류), sass수정
+- 2021.04.19 : 리스트 페이지 우측 fliter 백 서버연결, 18일 날짜 제품card 서버오류 잡음
+- 2021.04.20 : 페이지네이션 진행, 코드 리뷰 반영 리팩토링
+- 2021.04.21 : 페이지 네이션 완료 및 서버연결, 좌측 정렬필터 서버연결
+- 2021.04.22 : 좌측 정렬필터 서버연결, master merge
 
+#### 기능 구현
+- react를 이용하여 이미지 호버시 상품정보 노출과 이미지변환
+- 각 상품 id에 맞는 api 데이터(이미지 2종, 상품명, 사이즈, 가격, 재고) 가져오기
+- withRouter history메서드를 사용하여 메인과 제ㄹ
+- 각 상품 id에 맞는 api 데이터(이미지 2종, 상품명, 사이즈, 가격, 재고) 가져오기
+- query string url을 사용하여 리스트페이지와 상세페이지 연결 (동적라우팅)
+- 
 
 
 ## 기술스택
@@ -44,9 +62,9 @@
 ## 협업 툴
 
 - ![Notion](https://img.shields.io/badge/-Notion-000000)
-- ![GIT](https://img.shields.io/badge/-GIT-9faa)
-- ![Slack](https://img.shields.io/badge/-GIT-ff69b4)
-- ![Trello](https://img.shields.io/badge/-GIT-blue)
+- ![GIT](https://img.shields.io/badge/-GIT-000000)
+- ![Slack](https://img.shields.io/badge/-Slack-ff69b4)
+- ![Trello](https://img.shields.io/badge/-Trello-blue)
 
 ## 📟 블로그
 
