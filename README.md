@@ -1,4 +1,4 @@
-# Hikicovery 팀
+# 👕 Hikicovery 팀
 
 > 유명 아웃도어 브랜드 디스커버리 공식홈페이지를 제작하게 되었습니다.
 > 리액트로 제작된 홈페이지가 아니였고 직접 저희 팀원들이 리액트 홈페이지에 맞게
@@ -18,32 +18,20 @@
 
 2021.04.12 ~ 2021.04.23 (2주)
 
-## 👩🏻‍💻 팀원 별 작업 현황
+## 🖥 팀원 별 작업
 
-### 공통
+#### FRONTEND
+- 손주영 : 로그인, 회원가입, 장바구니, 카테고리 메뉴, 고정픽스바
+- 김도희 : 메인페이지 하단, 상품디테일 페이지, 공통컴포넌트 풋터 제작
 
-- 2021-04-19 : footer 컴포넌트 merge 완료
-- 2021-04-20 : Nav, Aside 컴포넌트 merge 완료
-- 2021-04-22 : main,shoeslist,detail 각 담당 페이지 merge 완료
-- 2021-04-23 : 각 페이지별 수정사항 총합 merge 완료
+#### BACKEND
+- 양명진
+- 정재유
+- 김근호
 
-### 손주영
+### 👩🏻‍💻 황재원 작업
 
-- 메인페이지 상단
-- 공통컴포넌트 카테고리 메뉴 ,고정메뉴바
-- 장바구니 페이지
-- 로그인 페이지
-- 회원가입 페이지
 
-### 김도희
-
-- 메인페이지 하단
-- 상품디테일 페이지
-- 공통컴포넌트 풋터 제작
-
-### 황재원
-
-- 상품리스트 페이지 제작
 
 ## 기술스택
 
@@ -52,8 +40,14 @@
 - ![React](https://img.shields.io/badge/-React-blue)
 - ![SCSS](https://img.shields.io/badge/-SCSS-ff69b4)
 
-## 📟 팀원 블로그
+## 협업 툴
 
-- 손주영 : https://velog.io/@wndud0647
-- 김도희 : https://velog.io/@_dodo_hee
+- ![image](https://user-images.githubusercontent.com/78062522/115998700-78760a00-a623-11eb-99ff-ae9a54ac5094.png)
+- ![image](https://user-images.githubusercontent.com/78062522/115998707-8035ae80-a623-11eb-9faa-f652a1e7b668.png)
+- ![image](https://user-images.githubusercontent.com/78062522/115998713-888de980-a623-11eb-9e9d-fc559f455fea.png)
+- ![Notion](https://img.shields.io/badge/-Notion-000000)
+
+
+## 📟 블로그
+
 - 황재원 : https://velog.io/@jaewon97
