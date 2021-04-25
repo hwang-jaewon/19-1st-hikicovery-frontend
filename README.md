@@ -33,6 +33,7 @@
 
 
 
+
 ## 기술스택
 
 - ![HTML/CSS](https://img.shields.io/badge/-HTML/CSS-E44D26)
@@ -42,11 +43,10 @@
 
 ## 협업 툴
 
-- ![image](https://user-images.githubusercontent.com/78062522/115998700-78760a00-a623-11eb-99ff-ae9a54ac5094.png)
-- ![image](https://user-images.githubusercontent.com/78062522/115998707-8035ae80-a623-11eb-9faa-f652a1e7b668.png)
-- ![image](https://user-images.githubusercontent.com/78062522/115998713-888de980-a623-11eb-9e9d-fc559f455fea.png)
 - ![Notion](https://img.shields.io/badge/-Notion-000000)
-
+- ![GIT](https://img.shields.io/badge/-GIT-9faa)
+- ![Slack](https://img.shields.io/badge/-GIT-ff69b4)
+- ![Trello](https://img.shields.io/badge/-GIT-blue)
 
 ## 📟 블로그
 
